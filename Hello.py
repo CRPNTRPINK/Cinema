@@ -1,2 +1,5 @@
-print('Hello!')
-print('Изменения ')
+def pr():
+	print('Hello!')
+	print('Изменения ')
+
+pr
